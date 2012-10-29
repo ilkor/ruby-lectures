@@ -1,2 +1,2 @@
-ruby-rectures
+ruby-lectures
 =============
